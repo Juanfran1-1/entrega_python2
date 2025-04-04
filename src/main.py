@@ -1,4 +1,4 @@
-import funciones
+from funciones import procesar_rondas
 
 rounds = [
 {
@@ -39,5 +39,5 @@ rounds = [
 ]
 
 print('Inicio simulacion partida...\n')
-funciones.procesar_rondas(rounds)
+procesar_rondas(rounds)
 print('\nFinalizando simulacion...')

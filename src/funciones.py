@@ -1,4 +1,4 @@
-#FUNCIONES PARA MAIN
+#FUNCIONES PARA EL MAIN
 
 def calcular_puntos(kills,assists,deaths):
     puntaje = {'kill' : 3 , 'assist': 1 , 'death': -1}
