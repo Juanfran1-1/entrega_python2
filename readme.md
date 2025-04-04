@@ -53,7 +53,9 @@ el proyecto se puede ejecutar sobre el archivo "main.py" en la carpeta src que c
 que contiene el mismo codigo pero en un jupyter notebook(para esto se tienen las intrucciones anteriormente dichas).
 
 ##REPASANDO##
+
 las instrucciones para la ejecucion del proyecto:
+
 crear el entorno virtual:
                                                  python -m venv venv
 
