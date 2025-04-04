@@ -1,3 +1,5 @@
+import funciones
+
 rounds = [
 {
 'Shadow': {'kills': 2, 'assists': 1, 'deaths': True},
@@ -37,5 +39,5 @@ rounds = [
 ]
 
 print('Inicio simulacion partida...\n')
-procesar_rondas(rounds)
+funciones.procesar_rondas(rounds)
 print('\nFinalizando simulacion...')
