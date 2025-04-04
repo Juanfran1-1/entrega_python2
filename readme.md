@@ -76,7 +76,7 @@ instalar jupyter notebook:
 abrir el jupyter notebook:
 
                                                     jupyter notebook
-                                                    
+
 una vez abierto el jupyter notebook se puede ejecutar el codigo de una manera mas visual y interactuable
 
 
