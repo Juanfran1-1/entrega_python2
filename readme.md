@@ -55,6 +55,7 @@ que contiene el mismo codigo pero en un jupyter notebook(para esto se tienen las
 ##REPASANDO##
 
 las instrucciones para la ejecucion del proyecto:
+
 crear el entorno virtual:
                                                  python -m venv venv
 
