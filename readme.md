@@ -7,7 +7,7 @@ en una funcion que se encuentra en la carpeta src/funciones.py
 
 ENTORNO VIRTUAL VENV=
 
-este proyecto incluye un entorno virtual para su ejecucion el cual se encuentra en la carpeta venv,venv es una herramienta que sirve para crear entornos virtuales,
+este proyecto incluye un entorno virtual, un entonro virtual es una herramienta que se utiliza para crear un espacio aislado de los demas proyectos con sus propios cripts ,librerias y funcionalidades, para su ejecucion el cual se encuentra en la carpeta venv,venv es una herramienta que sirve para crear entornos virtuales,
 la cual se puede crear introduciendo en la terminal el siguiente comando: 
 
                                                  python -m venv venv
@@ -48,6 +48,10 @@ para abrirlo en la web si se quiere abrir en el navegador, o se puede abrir dire
 
 una vez abierto el jupyter notebook se puede ejecutar el codigo de una manera mas visual y interactuable
 ademas de poder ver los resultados de cada celda de manera mas clara
+
+
+EJECUCION DEL PROYECTO=
+
 
 el proyecto se puede ejecutar sobre el archivo "main.py" en la carpeta src que contiene sus respectivas funciones y en el archivo "main.ipynb"
 que contiene el mismo codigo pero en un jupyter notebook(para esto se tienen las intrucciones anteriormente dichas).
